@@ -1,5 +1,5 @@
 # Jak-zostac-inzynierem
 ## podtytuł
-raz
-dwa
-trzy
+ - raz
+ - dwa
+ - trzy
